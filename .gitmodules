@@ -1,0 +1,3 @@
+[submodule "node-js-sample"]
+	path = node-js-sample
+	url = https://github.com/heroku/node-js-sample.git
